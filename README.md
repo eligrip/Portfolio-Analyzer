@@ -2,6 +2,8 @@
 
 Python Script that gives you daily updates on your portfolio with recent news and analysis.
 
+See my portfolio to understand the format.
+
 
 
 
