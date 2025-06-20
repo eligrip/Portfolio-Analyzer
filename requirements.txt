@@ -1,0 +1,8 @@
+yfinance==0.2.40
+pandas==2.2.2
+numpy==1.25.2
+matplotlib==3.7.5
+seaborn==0.12.2
+schedule==1.2.1
+requests==2.31.0
+
